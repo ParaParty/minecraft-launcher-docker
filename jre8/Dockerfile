@@ -1,4 +1,4 @@
-FROM registry.cn-beijing.aliyuncs.com/dream-common/java-runtime:8
+FROM docker.io/bellsoft/liberica-openjdk-alpine:8u302
 WORKDIR /work
 
 EXPOSE 25565, 8123
