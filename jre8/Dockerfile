@@ -1,4 +1,4 @@
-FROM docker.io/bellsoft/liberica-openjdk-alpine:8u302
+FROM docker.io/bellsoft/liberica-openjdk-alpine:8u312
 WORKDIR /work
 
 EXPOSE 25565, 8123
