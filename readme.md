@@ -1,7 +1,7 @@
 # ParaParty Minecraft 启动容器
 
 ## 环境
-- 使用阿里云镜像站拉取 jre 8
+- 使用阿里云镜像站拉取 jre 8 / 11 / 16 / 17
 - 容器对外开放 25565 (TCP-Minecraft) 和 8123 (HTTP-Dynmap) 端口
 
 ## 使用
